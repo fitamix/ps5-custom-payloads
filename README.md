@@ -12,7 +12,10 @@ IP junto con su puerto. Introduce estos datos en tu dispositivo (móvil o PC) pa
 a la interfaz de configuración.
 6. Añade la siguiente URL en el campo correspondiente para cargar este repositorio:
 https://thewizwikii.github.io/ps5-custom-payloads/payloads.json
+
 📋 Especificaciones del Repositorio
 Este origen de payloads cumple estrictamente con el formato JSON requerido por el gestor de
 la consola, asegurando la correcta lectura del catálogo de binarios y soporte nativo para
 cabeceras CORS de GitHub Pages.
+
+- Creditos a itsplk por su Payload Manager

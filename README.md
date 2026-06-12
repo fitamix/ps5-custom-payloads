@@ -11,8 +11,11 @@ Para añadir y usar este repositorio en tu consola, sigue estos sencillos pasos:
 IP junto con su puerto. Introduce estos datos en tu dispositivo (móvil o PC) para acceder
 a la interfaz de configuración.
 6. Añade la siguiente URL en el campo correspondiente para cargar este repositorio:
-7. ```diff
+
+  
+ ```diff
 + https://thewizwikii.github.io/ps5-custom-payloads/payloads.json
+
 
 📋 Especificaciones del Repositorio
 Este origen de payloads cumple estrictamente con el formato JSON requerido por el gestor de

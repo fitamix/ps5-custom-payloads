@@ -12,6 +12,16 @@
       "checksum": "85c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
     },
     {
+      "name": "VoidShell",
+      "filename": "voidshell-v3.0.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/voidshell-v3.0.elf",
+      "source": "https://github.com/Gezine/BD-UN-JB/releases",
+      "description": "Una herramienta para PS5 multiusos.",
+      "last_update": "12.06.2026",
+      "version": "v3.0"
+      "checksum": "33c16fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
       "name": "Webserv",
       "filename": "websrv-ps5-v0.32.elf",
       "url": "https://thewizwikii.github.io/ps5-custom-payloads/websrv-ps5-v0.32.elf",

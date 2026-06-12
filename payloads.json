@@ -2,28 +2,181 @@
   "name": "PS5 Payloads Repo TheWizWiki",
   "payloads": [
     {
-      "name": "bdj_unpatch",
+      "name": "BD-J_Unpatch",
       "filename": "bdj_unpatch_v13.40.elf",
       "url": "https://thewizwikii.github.io/ps5-custom-payloads/bdj_unpatch_v13.40.elf",
-      "description": "Desparchea el lector para BD-J",
+      "source": "https://github.com/Gezine/BD-UN-JB/releases",
+      "description": "Desbloquea el lector de discos (BD-J) en PS5 liberadas hasta firmware 13.40.",
       "last_update": "12.06.2026",
       "version": "v13.40"
       "checksum": "85c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
     },
     {
+      "name": "Webserv",
+      "filename": "websrv-ps5-v0.32.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/websrv-ps5-v0.32.elf",
+      "source": "https://github.com/ps5-payload-dev/websrv/releases",
+      "description": "Servidor web simple que acepta conexiones en el puerto 8080.",
+      "last_update": "12.06.2026",
+      "version": "v13.40"
+      "checksum": "84c99fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "PS5 Debug NG",
+      "filename": "ps5debug-NG_v1.2.7.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/ps5debug-NG_v1.2.7.elf",
+      "source": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases",
+      "description": "Depurador para PS5 que permite inspeccionar y modificar procesos en ejecución.",
+      "last_update": "12.06.2026",
+      "version": "v1.2.7"
+      "checksum": "15c68fcb1e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "ShadowMount Plus",
+      "filename": "shadowmountplus-1.6-test15-fix2.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/shadowmountplus-1.6-test15-fix2.elf",
+      "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+      "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas.",
+      "last_update": "12.06.2026",
+      "version": "v1.6"
+      "checksum": "11c66fcb3e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "Linux Loader",
+      "filename": "ps5-linux-loader_v2.1.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/ps5-linux-loader_v2.1.elf",
+      "source": "https://github.com/ps5-linux/ps5-linux-loader/releases",
+      "description": "Permite arrancar Linux en PS5 (solo hasta 6.02).",
+      "last_update": "12.06.2026",
+      "version": "v2.1"
+      "checksum": "75c66fcb8e3f512e5763a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "NP Fake Signin",
+      "filename": "np-fake-signin-ps5_v1.3.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/np-fake-signin-ps5_v1.3.elf",
+      "source": "https://git.etawen.dev/earthonion/np-fake-signin/releases",
+      "description": "Simula el inicio de sesión en PSN para el usuario activo modificando registros y archivos del sistema.",
+      "last_update": "12.06.2026",
+      "version": "v1.3"
+      "checksum": "76c76fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "nanoDNS",
+      "filename": "nanodns-v0.3.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/nanodns-v0.3.elf",
+      "source": "https://github.com/drakmor/nanoDNS/releases",
+      "description": "Servidor proxy DNS local que permite redirigir dominios mediante filtros y configuraciones personalizadas.",
+      "last_update": "12.06.2026",
+      "version": "v0.3"
+      "checksum": "48c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "Ghostpad",
+      "filename": "ghostpad-v1.0.0.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/ghostpad-v1.0.0.elf",
+      "source": "https://github.com/AssPayload/Ghostpad",
+      "description": "Control remoto para PS5 liberadas desde PC, web o mando BLE usando un puente ESP32.",
+      "last_update": "12.06.2026",
+      "version": "v1.0.0"
+      "checksum": "98c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "Garlic Save Manager",
+      "filename": "garlic-savemgr-v1.10.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/garlic-savemgr-v1.10.elf",
+      "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
+      "description": "Gestor de guardados con interfaz web para descifrar, cifrar y explorar partidas.",
+      "last_update": "12.06.2026",
+      "version": "v1.10"
+      "checksum": "61c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "Servidor FTP",
+      "filename": "ftpsrv-ps5-v0.20.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/ftpsrv-ps5-v0.20.elf",
+      "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
+      "description": "Servidor FTP básico que acepta conexiones en el puerto 2121.",
+      "last_update": "12.06.2026",
+      "version": "v0.20"
+      "checksum": "55c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "etaHEN",
+      "filename": "etaHEN-2.6B.bin",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/etaHEN-2.6B.bin",
+      "source": "https://github.com/etaHEN/etaHEN/releases",
+      "description": "Payload AIO todo en uno de LM.",
+      "last_update": "12.06.2026",
+      "version": "v2.6b"
+      "checksum": "74c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "Elf-Arsenal",
+      "filename": "elf-arsenal-v1.6.19.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/elf-arsenal-v1.6.19.elf",
+      "source": "https://github.com/Gezine/BD-UN-JB/releases",
+      "description": "Suite todo en uno con múltiples payloads integrados (FTP, kstuff, dumper, DNS, parches, servidor web).",
+      "last_update": "12.06.2026",
+      "version": "v1.6.19"
+      "checksum": "17c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "Lapy-JB-Daemon",
+      "filename": "Lapy-JB-Daemon_v1.2.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/Lapy-JB-Daemon_v1.2.elf",
+      "source": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases",
+      "description": "Permite usar apps sin necesidad de etaHEN como PS5-Xplorer.",
+      "last_update": "12.06.2026",
+      "version": "v1.2"
+      "checksum": "18c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "GhostControl",
+      "filename": "Ghostcontrol_v1.0.4.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/Ghostcontrol_v1.0.4.elf",
+      "source": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases",
+      "description": "Permite usar mandos USB de terceros en PS5 emulando un DualSense virtual.",
+      "last_update": "12.06.2026",
+      "version": "v1.0.4"
+      "checksum": "14c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "CheatRunner",
+      "filename": "CheatRunner_v0.12.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/CheatRunner_v0.12.elf",
+      "source": "https://github.com/notmaj0r/CheatRunner/releases",
+      "description": "Lanzador web y gestor de trucos para consolas PS5 con jailbreak.",
+      "last_update": "12.06.2026",
+      "version": "v0.12"
+      "checksum": "78c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "Kstuff Lite Darkmor Port",
+      "filename": "kstuff-lite-dr_1.2-dr-test1.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/kstuff-lite-dr_1.2-dr-test1.elf",
+      "source": "https://github.com/drakmor/kstuff-lite/releases",
+      "description": "drakmor´s port de Kastuff-Lite.",
+      "last_update": "12.06.2026",
+      "version": "v1.2"
+      "checksum": "39c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
       "name": "Kstuff",
       "filename": "kstuff_v1.6.7.elf",
       "url": "https://thewizwikii.github.io/ps5-custom-payloads/kstuff_v1.6.7.elf",
-      "description": "Desbloqueador de juegos y apps, sin esto no juegas 👍",
+      "source": "https://github.com/EchoStretch/kstuff/releases",
+      "description": "Desbloqueador de juegos y apps, sin esto no juegas.",
       "last_update": "12.06.2026",
       "version": "v1.6.7"
-      "checksum": "85c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+      "checksum": "32c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
     },
     {
       "name": "Kstuff Lite",
       "filename": "kstuff-lite_v1.07.elf",
       "url": "https://thewizwikii.github.io/ps5-custom-payloads/kstuff-lite_v1.07.elf",
-      "description": "Desbloqueador de juegos y apps, sin esto no juegas ( ͡° ͜ʖ ͡°)",
+      "source": "https://github.com/EchoStretch/kstuff-lite/releases",
+      "description": "Desbloqueador de juegos y apps, sin esto no juegas.",
       "last_update": "12.06.2026",
       "version": "v1.07"
       "checksum": "f5c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"

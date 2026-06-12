@@ -1,0 +1,21 @@
+{
+  "name": "PS5 Payloads Repo TheWizWiki",
+  "payloads": [
+    {
+      "name": "bdj_unpatch_13.40",
+      "filename": "bdj_unpatch_1340.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/bdj_unpatch_1340.elf",
+      "description": "Desparchea el lector para BD-J",
+      "version": "v13.40"
+      "checksum": "f5c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "Kstuff Lite",
+      "filename": "kstuff_lite.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/kstuff.elf",
+      "description": "Desparchea el lector para BD-J",
+      "version": "v1.07"
+      "checksum": "f5c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    }
+  ]
+}

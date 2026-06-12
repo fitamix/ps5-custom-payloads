@@ -11,6 +11,15 @@
       "checksum": "85c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
     },
     {
+      "name": "Kstuff",
+      "filename": "kstuff_v1.6.7.elf",
+      "url": "https://thewizwikii.github.io/ps5-custom-payloads/kstuff_v1.6.7.elf",
+      "description": "Desbloqueador de juegos y apps, sin esto no juegas xD",
+      "last_update": "12.06.2026",
+      "version": "v1.6.7"
+      "checksum": "85c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
       "name": "Kstuff Lite",
       "filename": "kstuff-lite_v1.07.elf",
       "url": "https://thewizwikii.github.io/ps5-custom-payloads/kstuff-lite_v1.07.elf",

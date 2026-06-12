@@ -18,6 +18,7 @@ Este origen de payloads cumple estrictamente con el formato JSON requerido por e
 la consola, asegurando la correcta lectura del catálogo de binarios y soporte nativo para
 cabeceras CORS de GitHub Pages.
 
-```diff
-+ Creditos a **itsplk** por Payload Manager.
+
+> [!NOTE]
+> Creditos a **itsplk** por Payload Manager.
 

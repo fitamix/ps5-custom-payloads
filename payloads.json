@@ -3,13 +3,22 @@
   "payloads": [
     {
       "name": "Pegasus DL",
-      "filename": "pegasus_dl.elf",
-      "url": "https://fitamix.github.io/ps5-custom-payloads/pegasus_dl.elf",
+      "filename": "pegasus_dl_v1.6.0.elf",
+      "url": "https://fitamix.github.io/ps5-custom-payloads/pegasus_dl_v1.6.0.elf",
       "source": "https://github.com/pegasus-ps5/pegasus-dl/releases",
       "description": "Actualiza las librerias APR Emu desde un servidor en el puerto 6970.",
-      "last_update": "16.06.2026",
-      "version": "v1.4.0"
+      "last_update": "20.06.2026",
+      "version": "v1.6.0"
     },
+    {
+      "name": "Game Compressor",
+      "filename": "game-compressor_v1.0.3.elf",
+      "url": "https://fitamix.github.io/ps5-custom-payloads/game-compressor_v1.0.3.elf",
+      "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases",
+      "description": "Compressing, unpacking, validating, repairing, and moving ShadowMountPlus-mounted games from a simple web UI.",
+      "last_update": "20.06.2026",
+      "version": "v1.0.3"
+    },    
     {
       "name": "BD-J_Unpatch",
       "filename": "bdj_unpatch_v13.40.elf",

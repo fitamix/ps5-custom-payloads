@@ -1,6 +1,15 @@
 {
   "name": "PS5 Payloads Repo Fitamix",
   "payloads": [
+     {
+      "name": "File Explorer",
+      "filename": "file-explorer_v0.2.1.elf",
+      "url": "https://fitamix.github.io/ps5-custom-payloads/file-explorer_v0.2.1.elf",
+      "source": "https://fitamix.github.io/ps5-custom-payloads",
+      "description": "File explorer sin necesidad de etaHen",
+      "last_update": "09.07.2026",
+      "version": "v0.2.1"
+    },   
     {
       "name": "Pegasus DL",
       "filename": "pegasus_dl_v1.6.0.elf",

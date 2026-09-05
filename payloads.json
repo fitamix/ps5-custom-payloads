@@ -2,6 +2,15 @@
   "name": "PS5 Payloads Repo Fitamix",
   "payloads": [
      {
+      "name": "OnionHEN",
+      "filename": "OnionHEN_v0.0.12.elf",
+      "url": "https://fitamix.github.io/ps5-custom-payloads/OnionHEN_v0.0.12.elf",
+      "source": "https://fitamix.github.io/ps5-custom-payloads",
+      "description": "OnionHen",
+      "last_update": "05.09.2026",
+      "version": "v0.0.12"
+    },       
+     {
       "name": "File Explorer",
       "filename": "file-explorer_v0.2.1.elf",
       "url": "https://fitamix.github.io/ps5-custom-payloads/file-explorer_v0.2.1.elf",
@@ -66,12 +75,12 @@
     },
     {
       "name": "ShadowMount Plus",
-      "filename": "shadowmountplus-1.6-test15-fix2.elf",
-      "url": "https://fitamix.github.io/ps5-custom-payloads/shadowmountplus-1.6-test15-fix2.elf",
+      "filename": "shadowmountplus-1.7-alpha13-fix1.elf",
+      "url": "https://fitamix.github.io/ps5-custom-payloads/shadowmountplus-1.7-alpha13-fix1.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
       "description": "Payload automatizado para montar e instalar copias de juegos de PS5 sin herramientas externas.",
-      "last_update": "12.06.2026",
-      "version": "v1.6"
+      "last_update": "05.09.2026",
+      "version": "v1.7"
     },
     {
       "name": "Linux Loader",
